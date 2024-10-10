@@ -1,0 +1,218 @@
+.e41_169 { 
+	overflow: hidden;
+}
+.e41_169 { 
+	background-color: rgba(255, 255, 255, 1);
+	width: 360px;
+	height: 1000px;
+	position: absolute;
+}
+.e41_174 { 
+	width: 48px;
+	height: 48px;
+	position: absolute;
+	left: 280px;
+	top: 296px;
+}
+.e41_175 { 
+	border-radius: 500px;
+	background-color: rgba(53, 103, 232, 1); /* Valor ajustado */
+	width: 48px;
+	height: 48px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.e41_176 { 
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	left: 12px;
+	top: 12px;
+}
+.ei41_176_10_164 { 
+	background-color: rgba(255, 255, 255, 1);
+	width: 17.93px; /* Simplificado para duas casas decimais */
+	height: 13.83px;
+	position: absolute;
+	left: 3px;
+	top: 5.08px;
+}
+.e41_177 { 
+	width: 48px;
+	height: 48px;
+	position: absolute;
+	left: 22px;
+	top: 296px;
+}
+.e41_178 { 
+	border-radius: 500px;
+	background-color: rgba(53, 103, 232, 1); /* Valor ajustado */
+	opacity: 0.16;
+	width: 48px;
+	height: 48px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.e41_179 { 
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	left: 12px;
+	top: 12px;
+}
+.ei41_179_10_162 { 
+	background-color: rgba(53, 103, 232, 1); /* Valor ajustado */
+	width: 17.93px;
+	height: 13.83px;
+	position: absolute;
+	left: 3.07px;
+	top: 5.08px;
+}
+.e41_180 { 
+	width: 28px;
+	height: 12px;
+	position: absolute;
+	left: 153px;
+	top: 316px;
+}
+.e41_181 { 
+	border-radius: 500px;
+	background-color: rgba(53, 103, 232, 1); /* Valor ajustado */
+	width: 12px;
+	height: 12px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.e41_182 { 
+	border-radius: 500px;
+	background-color: rgba(215, 227, 233, 1); /* Valor ajustado */
+	width: 8px;
+	height: 8px;
+	position: absolute;
+	left: 20px;
+	top: 2px;
+}
+.e41_191 { 
+	color: rgba(0, 0, 0, 1);
+	width: 112px;
+	height: 40px;
+	position: absolute;
+	left: 124px;
+	top: 79px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 36px;
+	letter-spacing: 0;
+}
+.e67_46 { 
+	width: 360px;
+	height: 60px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.ei67_46_41_170 { 
+	background-color: rgba(53, 103, 232, 1); /* Valor ajustado */
+	width: 360px;
+	height: 56px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.ei67_46_41_171 { 
+	color: rgba(255, 255, 255, 1);
+	width: 152px;
+	height: 40px;
+	position: absolute;
+	left: 108px;
+	top: 6px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 36px;
+	letter-spacing: 0;
+}
+.ei67_46_41_172 { 
+	width: 50px;
+	height: 52px;
+	position: absolute;
+	left: 6px;
+	top: 8px;
+}
+.ei67_46_41_173 { 
+	width: 45px;
+	height: 32px;
+	position: absolute;
+	left: 11px;
+	top: 19px;
+	background-image: url(assets/4amigos.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.e75_145 { 
+	color: rgba(0, 0, 0, 1);
+	width: 280px;
+	height: 40px;
+	position: absolute;
+	left: 33px;
+	top: 432px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 16px;
+	letter-spacing: 0;
+}
+.e75_147 { 
+	width: 239.58px;
+	height: 152px;
+	position: absolute;
+	left: 60px;
+	top: 136px;
+	background-image: url(/assets/thiago_ventura_chega_a_netflix_380996_36_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.e75_151 { 
+	color: rgba(0, 0, 0, 1);
+	width: 160px;
+	height: 16px;
+	position: absolute;
+	left: 100px;
+	top: 376px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 16px;
+	letter-spacing: 0;
+}
+.e77_74 { 
+	width: 254px;
+	height: 48px;
+	position: absolute;
+	left: 56px;
+	top: 720px;
+}
+.e77_75 { 
+	background-color: rgba(53, 103, 232, 1); /* Valor ajustado */
+	width: 254px;
+	height: 48px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.e77_76 { 
+	color: rgba(255, 255, 255, 1);
+	width: 248px;
+	height: 40px;
+	position: absolute;
+	left: 6px;
+	top: 8px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 24px;
+	letter-spacing: 0;
+}

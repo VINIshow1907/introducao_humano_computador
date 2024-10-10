@@ -1,0 +1,104 @@
+.120_51 { 
+	overflow:hidden;
+}.e120_51 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:360px;
+	height:600px;
+	position:absolute;
+}.e120_61 { 
+	color:rgba(0, 0, 0, 1);
+	width:304px;
+	height:40px;
+	position:absolute;
+	left:29px;
+	top:80px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}.e120_62 { 
+	width:360px;
+	height:60px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.ei120_62_41_170 { 
+	background-color:rgba(53.040016293525696, 103.3056266605854, 232.55998492240906, 1);
+	width:360px;
+	height:56px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.ei120_62_41_171 { 
+	color:rgba(255, 255, 255, 1);
+	width:152px;
+	height:40px;
+	position:absolute;
+	left:108px;
+	top:6px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}.ei120_62_41_172 { 
+	width:50px;
+	height:52px;
+	position:absolute;
+	left:6px;
+	top:8px;
+}.ei120_62_41_173 { 
+	width:45px;
+	height:32px;
+	position:absolute;
+	left:11px;
+	top:19px;
+	background-image:url(images/design_sem_nome__1__1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e120_66 { 
+	width:254px;
+	height:48px;
+	position:absolute;
+	left:50px;
+	top:476px;
+}.e120_67 { 
+	background-color:rgba(53.040016293525696, 103.3056266605854, 232.55998492240906, 1);
+	width:254px;
+	height:48px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}.e120_68 { 
+	color:rgba(255, 255, 255, 1);
+	width:80px;
+	height:40px;
+	position:absolute;
+	left:90px;
+	top:4px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e121_76 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:254px;
+	height:256px;
+	position:absolute;
+	left:50px;
+	top:208px;
+}.e121_77 { 
+	color:rgba(0, 0, 0, 1);
+	width:240px;
+	height:24px;
+	position:absolute;
+	left:56px;
+	top:152px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
