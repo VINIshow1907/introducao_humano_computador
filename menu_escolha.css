@@ -1,202 +1,138 @@
 .overflow-hidden { 
-	overflow: hidden;
+    overflow: hidden;
 }
 
 .e31_147 { 
-	background-color: rgba(255, 255, 255, 1);
-	width: 360px;
-	height: 640px;
-	position: absolute;
+    background-color: rgba(255, 255, 255, 1);
+    width: 100%; /* Ajuste para responsivo */
+    height: 100vh; /* Altura total da tela */
+    position: relative;
 }
 
 .e31_148 { 
-	background-color: rgba(53, 103, 232, 1);
-	width: 360px;
-	height: 70px;
-	position: absolute;
-	left: 0px;
-	top: 0px;
+    background-color: rgba(53, 103, 232, 1);
+    width: 100%; /* Ajuste para responsivo */
+    height: 70px;
+    position: relative;
+    top: 0;
 }
 
 .e31_149 { 
-	color: rgba(255, 255, 255, 1);
-	width: 152px;
-	height: 40px;
-	position: absolute;
-	left: 108px;
-	top: 6px;
-	font-family: Inter, sans-serif; 
-	text-align: left;
-	font-size: 36px;
-	letter-spacing: 0;
+    color: rgba(255, 255, 255, 1);
+    width: 100%; /* Centralizando texto */
+    position: absolute;
+    text-align: center;
+    font-size: 2rem;
+    top: 15px; /* Ajustado para centralizar verticalmente */
 }
 
 .e31_150 { 
-	width: 50px;
-	height: 52px;
-	position: absolute;
-	left: 6px;
-	top: 8px;
+    width: 50px;
+    height: 52px;
+    position: absolute;
+    left: 10px;
+    top: 8px;
 }
 
 .e31_152 { 
-	background-color: rgba(255, 255, 255, 1);
-	width: 360px;
-	height: 583px;
-	position: absolute;
-	left: 0px; /* Corrigido o valor */
-	top: 49px;
+    background-color: rgba(255, 255, 255, 1);
+    width: 100%; /* Responsivo */
+    height: calc(100vh - 70px); /* O restante da tela */
+    position: absolute;
+    top: 70px; /* Ajustado para não sobrepor o header */
 }
 
-.e67_123 { 
-	transform: rotate(180deg);
-	width: 360px;
-	height: 0px;
-	position: absolute;
-	left: 0px;
-	top: 120px;
-	border: 1px solid rgba(255, 255, 255, 1); 
-}
-
-.e67_122 { 
-	transform: rotate(179.68deg);
-	width: 360px;
-	height: 0px;
-	position: absolute;
-	left: 0px;
-	top: 247px;
-	border: 1px solid rgba(255, 255, 255, 1); 
+.e67_123, .e67_122, .e67_120, .e67_128 { 
+    width: 100%; /* Responsivo */
+    height: 0;
+    border: 1px solid rgba(255, 255, 255, 1);
 }
 
 .e31_154 { 
-	color: rgba(0, 0, 0, 1);
-	width: 116px;
-	height: 40px;
-	position: absolute;
-	left: 56px;
-	top: 266px;
-	font-family: Inter, sans-serif; 
-	text-align: left;
-	font-size: 28px;
-	letter-spacing: 0;
+    color: rgba(0, 0, 0, 1);
+    width: auto;
+    position: absolute;
+    left: 10%; /* Responsivo */
+    top: 40%;
+    font-family: Inter, sans-serif;
+    font-size: 1.75rem; /* Tornando responsivo */
 }
 
 .e45_34 { 
-	width: 30px;
-	height: 30px;
-	position: absolute;
-	left: 10px;
-	top: 16px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 16px;
 }
 
 .e45_35 { 
-	background-color: rgba(232, 234, 237, 1);
-	width: 20px;
-	height: 20px;
-	position: absolute;
-	left: 5px;
-	top: 5px;
+    background-color: rgba(232, 234, 237, 1);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
 }
 
 .e67_117 { 
-	width: 28px;
-	height: 21px;
-	position: absolute;
-	left: 17px;
-	top: 275px;
-	background-image: url(images/call_24dp_e8eaed_fill0_wght400_grad0_opsz24_1.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+    width: 28px;
+    height: 21px;
+    position: absolute;
+    left: 17px;
+    top: 275px;
+    background-image: url(images/call_24dp_e8eaed_fill0_wght400_grad0_opsz24_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .e31_153 { 
-	color: rgba(0, 0, 0, 1);
-	width: 116px;
-	height: 40px;
-	position: absolute;
-	left: 40px;
-	top: 73px;
-	font-family: Inter, sans-serif;
-	text-align: left;
-	font-size: 28px;
-	letter-spacing: 0;
+    color: rgba(0, 0, 0, 1);
+    width: auto;
+    position: absolute;
+    left: 10%;
+    top: 80px;
+    font-family: Inter, sans-serif;
+    font-size: 1.75rem;
 }
 
 .e31_185 { 
-	width: 62px;
-	height: 68px;
-	position: absolute;
-	left: 0px; /* Corrigido */
-	top: 57px;
-	background-image: url(/assets/menuzinho.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+    width: 62px;
+    height: 68px;
+    position: absolute;
+    left: 10px;
+    top: 57px;
+    background-image: url(/assets/menuzinho.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .e67_125 { 
-	background-color: rgba(234, 234, 234, 1); 
-	width: 360px;
-	height: 133px;
-	position: absolute;
-	left: 0px;
-	top: 121px;
+    background-color: rgba(234, 234, 234, 1);
+    width: 100%; /* Responsivo */
+    height: 133px;
+    position: absolute;
+    left: 0;
+    top: 121px;
 }
 
-.e67_120 { 
-	transform: rotate(180deg);
-	width: 360px;
-	height: 0px;
-	position: absolute;
-	left: 0px; /* Corrigido */
-	top: 163px;
-	border: 1px solid rgba(166, 159, 159, 1); 
-}
-
-.e67_128 { 
-	transform: rotate(180deg);
-	width: 360px;
-	height: 0px;
-	position: absolute;
-	left: 0px;
-	top: 208px;
-	border: 1px solid rgba(166, 159, 159, 1); 
+.e31_165, .e31_166, .e31_167 { 
+    color: rgba(0, 0, 0, 1);
+    width: auto;
+    position: absolute;
+    left: 15%; /* Responsivo */
+    font-family: Inter, sans-serif;
+    font-size: 1.25rem;
 }
 
 .e31_165 { 
-	color: rgba(0, 0, 0, 1);
-	width: 116px;
-	height: 40px;
-	position: absolute;
-	left: 64px;
-	top: 128px;
-	font-family: Inter, sans-serif;
-	text-align: left;
-	font-size: 20px;
-	letter-spacing: 0;
+    top: 128px;
 }
 
 .e31_166 { 
-	color: rgba(0, 0, 0, 1);
-	width: 116px;
-	height: 40px;
-	position: absolute;
-	left: 68px;
-	top: 171px;
-	font-family: Inter, sans-serif;
-	text-align: left;
-	font-size: 20px;
-	letter-spacing: 0;
+    top: 171px;
 }
 
 .e31_167 { 
-	color: rgba(0, 0, 0, 1);
-	width: 116px;
-	height: 40px;
-	position: absolute;
-	left: 68px;
-	top: 214px;
-	font-family: Inter, sans-serif;
-	text-align: left;
-	font-size: 20px;
-	letter-spacing: 0;
+    top: 214px;
 }
