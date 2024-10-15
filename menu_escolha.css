@@ -4,26 +4,25 @@
 
 .e31_147 { 
     background-color: rgba(255, 255, 255, 1);
-    width: 100%; /* Ajuste para responsivo */
-    height: 100vh; /* Altura total da tela */
+    width: 100%; 
+    height: 100vh; 
     position: relative;
 }
 
 .e31_148 { 
     background-color: rgba(53, 103, 232, 1);
-    width: 100%; /* Ajuste para responsivo */
-    height: 70px;
+    width: 100%; 
     position: relative;
     top: 0;
 }
 
 .e31_149 { 
     color: rgba(255, 255, 255, 1);
-    width: 100%; /* Centralizando texto */
+    width: 100%; 
     position: absolute;
     text-align: center;
     font-size: 2rem;
-    top: 15px; /* Ajustado para centralizar verticalmente */
+    top: 15px; 
 }
 
 .e31_150 { 
@@ -36,14 +35,14 @@
 
 .e31_152 { 
     background-color: rgba(255, 255, 255, 1);
-    width: 100%; /* Responsivo */
-    height: calc(100vh - 70px); /* O restante da tela */
+    width: 100%; 
+    height: calc(100vh - 70px); 
     position: absolute;
-    top: 70px; /* Ajustado para não sobrepor o header */
+    top: 70px; 
 }
 
 .e67_123, .e67_122, .e67_120, .e67_128 { 
-    width: 100%; /* Responsivo */
+    width: 100%; 
     height: 0;
     border: 1px solid rgba(255, 255, 255, 1);
 }
@@ -52,10 +51,10 @@
     color: rgba(0, 0, 0, 1);
     width: auto;
     position: absolute;
-    left: 10%; /* Responsivo */
+    left: 10%; 
     top: 40%;
     font-family: Inter, sans-serif;
-    font-size: 1.75rem; /* Tornando responsivo */
+    font-size: 1.75rem; 
 }
 
 .e45_34 { 
@@ -109,7 +108,7 @@
 
 .e67_125 { 
     background-color: rgba(234, 234, 234, 1);
-    width: 100%; /* Responsivo */
+    width: 100%; 
     height: 133px;
     position: absolute;
     left: 0;
@@ -120,7 +119,7 @@
     color: rgba(0, 0, 0, 1);
     width: auto;
     position: absolute;
-    left: 15%; /* Responsivo */
+    left: 15%; 
     font-family: Inter, sans-serif;
     font-size: 1.25rem;
 }
