@@ -1,20 +1,19 @@
 .e21_431 { 
     overflow: hidden;
-}
-
-.e21_431 { 
     background-color: rgba(255, 255, 255, 1);
-    width: 360px;
-    height: 1400px;
-    position: absolute;
+    width: 90vw; /* largura responsiva */
+    max-width: 360px; /* largura máxima */
+    height: 1400px; /* pode ser ajustado */
+    position: relative; /* alterado para relativo para o posicionamento central */
+    margin: 0 auto; /* centraliza o contêiner */
 }
 
 .e51_71 { 
     background-color: rgba(53, 103, 232, 1);
-    width: 360px;
+    width: 100%; /* ocupa toda a largura do pai */
     height: 2.33px;
     position: absolute;
-    left: 0px;
+    left: 0;
     top: 854px;
 }
 
@@ -30,7 +29,7 @@
     width: 48px;
     height: 48px;
     position: absolute;
-    left: 280px;
+    left: calc(50% - 24px); /* centraliza horizontalmente */
     top: 296px;
 }
 
@@ -40,8 +39,8 @@
     width: 48px;
     height: 48px;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
 }
 
 .e21_446 { 
@@ -52,7 +51,7 @@
     top: 12px;
 }
 
-.ei21_446_10_164 {
+.ei21_446_10_164 { 
     background-color: rgba(255, 255, 255, 1);
     width: 17.93px;
     height: 13.83px;
@@ -65,7 +64,7 @@
     width: 48px;
     height: 48px;
     position: absolute;
-    left: 22px;
+    left: calc(50% - 12px); /* centraliza horizontalmente */
     top: 296px;
 }
 
@@ -76,8 +75,8 @@
     width: 48px;
     height: 48px;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
 }
 
 .e21_449 { 
@@ -101,7 +100,7 @@
     width: 28px;
     height: 12px;
     position: absolute;
-    left: 153px;
+    left: calc(50% - 14px); /* centraliza horizontalmente */
     top: 316px;
 }
 
@@ -111,8 +110,8 @@
     width: 12px;
     height: 12px;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
 }
 
 .e21_454 { 
@@ -130,7 +129,7 @@
     width: 97px;
     height: 40px;
     position: absolute;
-    left: 138px;
+    left: calc(50% - 48.5px); /* centraliza horizontalmente */
     top: 74px;
     font-family: Inter;
     text-align: left;
@@ -139,10 +138,11 @@
 }
 
 .e30_94 { 
-    width: 280px;
+    width: 90%; /* largura responsiva */
+    max-width: 280px; /* largura máxima */
     height: 152px;
     position: absolute;
-    left: 37px;
+    left: calc(50% - 140px); /* centraliza horizontalmente */
     top: 132px;
     background-image: url();
     background-repeat: no-repeat;
@@ -151,10 +151,11 @@
 
 .e49_48 { 
     color: rgba(0, 0, 0, 1);
-    width: 285px;
+    width: 90%; /* largura responsiva */
+    max-width: 285px; /* largura máxima */
     height: 24px;
     position: absolute;
-    left: 37px;
+    left: calc(50% - 142.5px); /* centraliza horizontalmente */
     top: 360px;
     font-family: Inter;
     text-align: left;
@@ -164,10 +165,11 @@
 
 .e49_62 { 
     color: rgba(0, 0, 0, 1);
-    width: 274px;
+    width: 90%; /* largura responsiva */
+    max-width: 274px; /* largura máxima */
     height: 24px;
     position: absolute;
-    left: 37px;
+    left: calc(50% - 137px); /* centraliza horizontalmente */
     top: 488px;
     font-family: Inter;
     text-align: left;
@@ -177,10 +179,11 @@
 
 .e49_61 { 
     color: rgba(0, 0, 0, 1);
-    width: 282px;
+    width: 90%; /* largura responsiva */
+    max-width: 282px; /* largura máxima */
     height: 40px;
     position: absolute;
-    left: 40px;
+    left: calc(50% - 141px); /* centraliza horizontalmente */
     top: 392px;
     font-family: Inter;
     text-align: left;
@@ -190,10 +193,11 @@
 
 .e51_70 { 
     color: rgba(0, 0, 0, 1);
-    width: 274px;
+    width: 90%; /* largura responsiva */
+    max-width: 274px; /* largura máxima */
     height: 73px;
     position: absolute;
-    left: 48px;
+    left: calc(50% - 137px); /* centraliza horizontalmente */
     top: 695px;
     font-family: Inter;
     text-align: left;
@@ -203,10 +207,11 @@
 
 .e51_87 { 
     color: rgba(0, 0, 0, 1);
-    width: 274px;
+    width: 90%; /* largura responsiva */
+    max-width: 274px; /* largura máxima */
     height: 73px;
     position: absolute;
-    left: 48px;
+    left: calc(50% - 137px); /* centraliza horizontalmente */
     top: 1088px;
     font-family: Inter;
     text-align: left;
@@ -215,10 +220,11 @@
 }
 
 .e51_73 { 
-    width: 228px;
+    width: 90%; /* largura responsiva */
+    max-width: 228px; /* largura máxima */
     height: 152px;
     position: absolute;
-    left: 64px;
+    left: calc(50% - 114px); /* centraliza horizontalmente */
     top: 528px;
     background-image: url(/assets/bruno_marrone_universo_alegria_curitiba_1.png);
     background-repeat: no-repeat;
@@ -226,10 +232,11 @@
 }
 
 .e51_88 { 
-    width: 243.56px;
+    width: 90%; /* largura responsiva */
+    max-width: 243.56px; /* largura máxima */
     height: 152px;
     position: absolute;
-    left: 65px;
+    left: calc(50% - 121.78px); /* centraliza horizontalmente */
     top: 912px;
     background-image: url(/assets/maiara_e_maraisa_2.png);
     background-repeat: no-repeat;
@@ -237,20 +244,20 @@
 }
 
 .e67_74 { 
-    width: 360px;
+    width: 100%; /* ocupa toda a largura do pai */
     height: 60px;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
 }
 
 .ei67_74_41_170 { 
     background-color: rgba(53, 103, 232, 1);
-    width: 360px;
+    width: 100%; /* ocupa toda a largura do pai */
     height: 56px;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
 }
 
 .ei67_74_41_171 { 
@@ -258,7 +265,7 @@
     width: 152px;
     height: 40px;
     position: absolute;
-    left: 108px;
+    left: calc(50% - 76px); /* centraliza horizontalmente */
     top: 6px;
     font-family: Inter;
     text-align: left;
@@ -286,20 +293,21 @@
 }
 
 .e77_64 { 
-    width: 254px;
+    width: 90%; /* largura responsiva */
+    max-width: 254px; /* largura máxima */
     height: 48px;
     position: absolute;
-    left: 58px;
+    left: calc(50% - 127px); /* centraliza horizontalmente */
     top: 1272px;
 }
 
 .e77_55 { 
     background-color: rgba(53, 103, 232, 1);
-    width: 254px;
+    width: 100%; /* ocupa toda a largura do pai */
     height: 48px;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
     border-radius: 15px;
 }
 
