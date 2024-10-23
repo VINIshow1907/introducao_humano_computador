@@ -15,6 +15,7 @@
 	top:8px;
 }
 
+
 .e41_27 { 
 	border-radius:500px;
 	background-color:rgba(53.040016293525696, 103.3056266605854, 232.55998492240906, 1);
@@ -154,7 +155,7 @@
 	position:absolute;
 	left:58px;
 	top:134px;
-	background-image:url(/assets/capitaoamerica.png);
+	background-image:url(../capitaoamerica.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
