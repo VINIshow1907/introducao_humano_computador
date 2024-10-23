@@ -226,7 +226,7 @@
     position: absolute;
     left: calc(50% - 114px);
     top: 528px;
-    background-image: url(/assets/bruno_marrone_universo_alegria_curitiba_1.png);
+    background-image: url(../bruno_marrone_universo_alegria_curitiba_1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -238,7 +238,7 @@
     position: absolute;
     left: calc(50% - 121.78px); 
     top: 912px;
-    background-image: url(/assets/maiara_e_maraisa_2.png);
+    background-image: url(../maiara_e_maraisa_2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
